@@ -9257,7 +9257,7 @@ PANDA300.on("message", message => {
 
 /// by PANDA
 
-PANDA.login("");
+PANDA.login("NzMzNzI4MjY2ODAzNzQwNzgz.YCKIJw.GUNJhy7Dzed2BQjXOrOc8wpg13Q");
 PANDA2.login("");
 PANDA3.login("");
 PANDA4.login("");
