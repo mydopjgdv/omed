@@ -9240,7 +9240,7 @@ PANDA300.on("message", message => {
     if (!dinfo.owner.includes(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(wara1)
         .then(connection => {
           message.reply("**😂هـــــاتــــم**!");
         })
